@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns="http://www.example.org/DEVSModeler" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation">
+  <CoupledModelType xmi:id="_fjqwoM_nEee_RNMFefPRAQ" defined="true" sourceFileRelativePath="5Input_MajGate.ma">
+    <ports xmi:type="CoupledPort" xmi:id="_fjqwoc_nEee_RNMFefPRAQ" portName="in1" outgoingLinks="_fjqwqc_nEee_RNMFefPRAQ"/>
+    <ports xmi:type="CoupledPort" xmi:id="_fjqwos_nEee_RNMFefPRAQ" portName="in2" outgoingLinks="_fjqwqs_nEee_RNMFefPRAQ"/>
+    <ports xmi:type="CoupledPort" xmi:id="_fjqwo8_nEee_RNMFefPRAQ" portName="in3" outgoingLinks="_fjqwq8_nEee_RNMFefPRAQ"/>
+    <ports xmi:type="CoupledPort" xmi:id="_fjqwpM_nEee_RNMFefPRAQ" portName="in4" outgoingLinks="_fjqwrM_nEee_RNMFefPRAQ"/>
+    <ports xmi:type="CoupledPort" xmi:id="_fjqwpc_nEee_RNMFefPRAQ" portName="in5" outgoingLinks="_fjqwrc_nEee_RNMFefPRAQ"/>
+    <ports xmi:type="CoupledPort" xmi:id="_fjqwps_nEee_RNMFefPRAQ" portName="out" portType="OUTPUT_PORT" incomingLinks="_fjqwrs_nEee_RNMFefPRAQ"/>
+    <coupledModels xmi:type="CoupledModelInstance" xmi:id="_fjqwp8_nEee_RNMFefPRAQ" instanceName="5InMG">
+      <modelType xmi:type="CoupledModelType" xmi:id="_fjqwqM_nEee_RNMFefPRAQ" modelName="5InMG"/>
+    </coupledModels>
+    <links xmi:type="CoupledLink" xmi:id="_fjqwqc_nEee_RNMFefPRAQ" source="_fjqwoc_nEee_RNMFefPRAQ"/>
+    <links xmi:type="CoupledLink" xmi:id="_fjqwqs_nEee_RNMFefPRAQ" source="_fjqwos_nEee_RNMFefPRAQ"/>
+    <links xmi:type="CoupledLink" xmi:id="_fjqwq8_nEee_RNMFefPRAQ" source="_fjqwo8_nEee_RNMFefPRAQ"/>
+    <links xmi:type="CoupledLink" xmi:id="_fjqwrM_nEee_RNMFefPRAQ" source="_fjqwpM_nEee_RNMFefPRAQ"/>
+    <links xmi:type="CoupledLink" xmi:id="_fjqwrc_nEee_RNMFefPRAQ" source="_fjqwpc_nEee_RNMFefPRAQ"/>
+    <links xmi:type="CoupledLink" xmi:id="_fjqwrs_nEee_RNMFefPRAQ" target="_fjqwps_nEee_RNMFefPRAQ"/>
+  </CoupledModelType>
+  <notation:Diagram xmi:id="_fjqwr8_nEee_RNMFefPRAQ" type="DEVS" element="_fjqwoM_nEee_RNMFefPRAQ" name="5Input_MajGate.madesigner" measurementUnit="Pixel">
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_fjqwsM_nEee_RNMFefPRAQ"/>
+  </notation:Diagram>
+</xmi:XMI>
